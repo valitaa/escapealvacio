@@ -1,0 +1,53 @@
+p{
+font-family: Arial;
+font-size: 20px;
+}
+.coders{
+	width: 50%;
+	height: 370px;
+	display: inline-block;
+	position: relative;
+}
+img{
+	width: 200px;
+	height: 180px;
+	display: inline-block;
+}
+.poder{
+	width: 600px;
+	height: 360px;
+}
+.caja{
+	display: inline-block;
+	position: absolute;
+	width: 50%;
+}
+.img1{
+	width: 47.5%;
+	height: 190px;
+	display: inline-block;
+}
+.img2{
+	width: 47.5%;
+	height: 190px;
+	display: inline-block;
+}
+.img3{
+	width: 47.5%;
+	height: 190px;
+	display: inline-block;
+}
+.img4{
+	width: 47.5%;
+	height: 190px;
+	display: inline-block;
+}
+.frase{
+	font-family: Arial;
+	font-size: 30px;
+}
+
+
+
+
+
